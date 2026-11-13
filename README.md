@@ -190,4 +190,4 @@ This repository serves as the official landing page for HeadsetControl-GUI. The 
 **Get the most recent version of HeadsetControl-GUI today!**
 
 ---
-**Last updated:** 2026-11-13 10:11:57 UTC
+**Last updated:** 2026-11-13 18:12:35 UTC
